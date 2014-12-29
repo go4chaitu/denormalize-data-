@@ -22,3 +22,6 @@ The [organised csv file](amp-organised-location.csv) will contain the following 
 ——
 
 Your script should read the following file [amp-unorganised-location.csv](amp-unorganised-location.csv) and output new file [amp-organised-location.csv](amp-organised-location.csv) in exact form. 
+The solution is written in python 2.7
+  To run the script type python script.py in command line
+  The final output of this program is output.csv
